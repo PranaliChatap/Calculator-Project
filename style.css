@@ -59,25 +59,25 @@ button:hover{
 }
 button:nth-child(4){
     font-size: 20px;
-    background-color: #20b2aa;
+    background-color: #03a79e;
 }
 button:nth-child(8){
     font-size: 20px;
-    background-color: #ffa500;
+    background-color: #e79f18;
 }
 
 button:nth-child(12){
     font-size: 20px;
-    background-color: #f08080;
+    background-color: #f56464;
 }
 
 button:nth-child(16){
     font-size: 20px;
-    background-color: #7d93e0;
+    background-color: #5e7ef5;
 }
 
 button:nth-child(20){
     font-size: 20px;
-    background-color: #9477af;
+    background-color: #8428da;
 }
 
